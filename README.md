@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Ankur Anand 👋
 
-<!--
-**anand199-bit/anand199-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Full Stack Developer** and tech enthusiast who loves building smart, scalable, and user-friendly applications.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently working on **[Omnibrain](https://github.com/anand199-bit/omnibrain)**, an integrated AI system.
+- 🌱 I’m currently learning advanced **Kotlin** and **Cloud Architecture**.
+- 💻 My expertise lies in **Java, Python, and JavaScript**.
+- 💬 Ask me about **Web Development** or **User Auth Systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Python, JavaScript, Java, Kotlin, HTML/CSS
+- **Frameworks:** Django, React, Node.js
+- **Tools:** Git, GitHub, VS Code
+
+### 📈 GitHub Stats
+![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand199-bit&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand199-bit&layout=compact&theme=radical)
+
+### 📬 Connect with me:
+- **LinkedIn:** [in/ankur-anand-3a1910275](https://www.linkedin.com/in/ankur-anand-3a1910275)
+- **Email:** [ankuranand1435@gmail.com](mailto:ankuranand1435@gmail.com)
